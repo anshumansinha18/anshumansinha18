@@ -1,10 +1,22 @@
 # 💫 About Me:
-👨‍💻 Software Engineer @ Crio.do  
-🧩 React.js, Next.js, Node.js, Python, Java, AWS (Lambda, S3, CloudFront, API Gateway), Docker, Jenkins, Nginx, SST  
-🔧 Built multi-step Profile Service (schema-driven form engine), LinkedIn cert automation (LinkedIn API + Lambda), CMS-based masterclass funnels, Crio Community (custom UI on Discourse APIs)  
-⚙️ Contributed to Gatsby → Next.js migration, infra shifts (AWS ↔ Azure & intra-Azure), SST deployments, Nginx config, VPC setups, and infra cost reduction  
-🛠️ Created internal dashboards, automated lead-gen tools (Appsmith + GPT), OTP verification (OTPLess SDK), onboarding flows, and reusable component library (ShadCN + custom components)  
-🔍 Strong in debugging, reviewing PRs end-to-end, performance optimization, and cross-team collaboration  
+👨‍💻 Software Engineer @ **Crio.do**  
+🧩 Working with **React.js**, **Next.js**, **Node.js**, **Python**, **Java**, **AWS (Lambda, S3, CloudFront, API Gateway)**, **Docker**, **Jenkins**, **Nginx**, and **SST**  
+🔧 Built core features like:
+- **Multi-step Profile Service** (schema-driven form engine with 100+ dynamic fields)  
+- **LinkedIn Certificate Sharing** (integrated with LinkedIn APIs + AWS Lambda for auto-posting)  
+- **CMS-based Masterclass Funnels** (custom EverWebinar workflows using Strapi + serverless)  
+- **Crio Community** (custom UI built over **Discourse APIs**, deployed via **Docker**)  
+
+⚙️ Contributed to:
+- **Gatsby → Next.js migration** with performance improvements (Lighthouse 90+)  
+- **Infra migration** from **AWS to Azure** and across **Azure regions** (VPC, NAT Gateways, SSL, firewall)  
+- **Cost reduction initiatives** through infra cleanup, resource tuning, and smarter deploy flows  
+
+🛠️ Built internal tools:
+- **Appsmith-based job lead extractor** (with GPT)  
+- **OTP verification service** using **OTPLess SDK**  
+- **Reusable design system** (ShadCN + custom components)  
+- **Developer dashboards**, onboarding flows, and automation scripts  
 
 
 ## 🌐 Socials:
