@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I work at crio.do where I dive into tech stuff.<br>🔗 I'm really good at JavaScript and use it to make websites awesome.<br>📕 Right now, I'm learning React to make cooler web designs.<br>😎 I'm also getting better at solving tricky problems with Data Structures and algorithms.<br>🤼 People say I'm a great leader and I help teams work together well.<br>🖼️ I'm awesome at making the front part of websites, and I'm learning how to do the backend part too!
+👨‍💻 Software Engineer @ Crio.do  
+🧩 React.js, Next.js, Node.js, Python, Java, AWS (Lambda, S3, CloudFront, API Gateway), Docker, Jenkins, Nginx, SST  
+🔧 Built multi-step Profile Service (schema-driven form engine), LinkedIn cert automation (LinkedIn API + Lambda), CMS-based masterclass funnels, Crio Community (custom UI on Discourse APIs)  
+⚙️ Contributed to Gatsby → Next.js migration, infra shifts (AWS ↔ Azure & intra-Azure), SST deployments, Nginx config, VPC setups, and infra cost reduction  
+🛠️ Created internal dashboards, automated lead-gen tools (Appsmith + GPT), OTP verification (OTPLess SDK), onboarding flows, and reusable component library (ShadCN + custom components)  
+🔍 Strong in debugging, reviewing PRs end-to-end, performance optimization, and cross-team collaboration  
 
 
 ## 🌐 Socials:
